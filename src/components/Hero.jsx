@@ -23,10 +23,9 @@ const Hero = () => {
         <div className="hero-content reveal">
           <p className="hero-tagline">TAMIL RAP &middot; CHENNAI</p>
           <h1 className="hero-title">
-            <span className="title-line1">EKALAI</span>
-            <span className="title-line2">VAN21</span>
+            <span className="title-line1">EKALAI<span className="title-line2">VAN21</span></span>
           </h1>
-          <p className="hero-subtitle">Independent Artist &middot; ft. Monesh07 &middot; <span className="tamil-text">இசை என் ஆத்மா</span></p>
+          <p className="hero-subtitle">Independent Artist &middot; <span className="tamil-text">இசை என் ஆத்மா</span></p>
           
           <div className="hero-stats">
             <div className="stat">8+ Singles</div>

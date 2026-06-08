@@ -36,12 +36,12 @@
 }
 
 .title-line1 {
-  font-size: clamp(6rem, 12vw, 12rem);
+  font-size: clamp(4rem, 12vw, 12rem);
   color: var(--color-text);
 }
 
 .title-line2 {
-  font-size: clamp(6rem, 12vw, 12rem);
+  font-size: clamp(4rem, 12vw, 12rem);
   color: var(--color-primary);
 }
 
