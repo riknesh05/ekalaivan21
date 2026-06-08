@@ -21,7 +21,7 @@ const Hero = () => {
     <section className="hero">
       <div className="hero-split">
         <div className="hero-content reveal">
-          <p className="hero-tagline">TAMIL RAP &middot; CHENNAI</p>
+          <p className="hero-tagline">TAMIL RAP &middot; VILLUPURAM</p>
           <h1 className="hero-title">
             <span className="title-line1">EKALAI<span className="title-line2">VAN21</span></span>
           </h1>

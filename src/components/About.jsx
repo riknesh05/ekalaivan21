@@ -20,7 +20,7 @@ const About = () => {
             <h2 className="section-title left-align">ABOUT</h2>
             
             <p className="about-bio">
-              Ekalaivan21 is an independent Tamil rapper from Chennai, crafting bars that blend mother-tongue pride with modern trap energy. Alongside his creative partner Monesh07, he drops music that hits — from heartfelt love tracks to high-energy street bangers.
+              Ekalaivan21 is an independent Tamil rapper from Villupuram, crafting bars that blend mother-tongue pride with modern trap energy. Alongside his creative partner Monesh07, he drops music that hits — from heartfelt love tracks to high-energy street bangers.
             </p>
             
             <div className="quote-box">
